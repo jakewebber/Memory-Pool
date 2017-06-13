@@ -3,7 +3,7 @@
 
 ```W A S D``` Controls for movement
 
-<img align="center" src=https://github.com/jakewebber/Memory-Pool/blob/master/screenshot.png?raw=true>
+<img align="center" src=https://github.com/jakewebber/Memory-Pool/blob/master/screenshot.png>
 
 
 Developed in Unity3D
